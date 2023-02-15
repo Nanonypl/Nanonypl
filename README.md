@@ -47,6 +47,10 @@ Command	Description
 - cat - concatenate files and print on the standard output
 - cd - change the working directory
 
+- git add
+- git commit
+- git push
+
 <!--
 **Nanonypl/Nanonypl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
