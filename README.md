@@ -42,6 +42,10 @@ Command	Description
 - git config --global --list	Get global config
 - ssh-keygen to generate a key
 - ls is used to list files and directories
+- touch - change file timestamps
+- echo - display a line of text
+- cat - concatenate files and print on the standard output
+- cd - change the working directory
 
 <!--
 **Nanonypl/Nanonypl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
