@@ -41,7 +41,7 @@ Command	Description
 - git config --global user.email "your_email_address@example.com"	Set globally Email id
 - git config --global --list	Get global config
 - ssh-keygen to generate a key
-- ls is used to list files and directories
+- ls - used to list files and directories
 - touch - change file timestamps
 - echo - display a line of text
 - cat - concatenate files and print on the standard output
