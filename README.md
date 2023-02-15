@@ -40,7 +40,7 @@ Command	Description
 - git config --global user.name "your_username"	Set globally Username
 - git config --global user.email "your_email_address@example.com"	Set globally Email id
 - git config --global --list	Get global config
-- $ ssh-keygen to generate a key
+- ssh-keygen to generate a key
 - ls is used to list files and directories
 
 <!--
